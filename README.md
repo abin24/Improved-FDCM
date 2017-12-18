@@ -3,7 +3,7 @@
 Yibin Huang, Yue Guo and  Kui Yuan,  </font><font size=3 color=#0000ff>Improved FDCM in Laser Scanning Inspection System for Workpiece Deformation</font>  ,IEEE International Conference on Robotics and Biomimetics IEEE, which will indexed by EI soon.
 
 **A remarkable view of our work:**
-![FDCM](E:\VisoStidioprojects\win10Opencv31\MystructlineGige\ForGitHub\00.png)
+![FDCM](./00.png)
 <center>**Improved FDCM is robust and usable.** </center> 
 
 The target can be detected and localized under the partial occlusion (a), in the cluttered background (b), and in bad illumination (c). It is also suitable for the objects with only a few line segments, for example, the mouse in (d).   
