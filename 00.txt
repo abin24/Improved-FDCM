@@ -3,6 +3,7 @@
 echo "# Improved-FDCM" >> README.md
 git init
 git add README.md
+git add .
 git commit -m "first commit"
 git remote add origin https://github.com/abin24/Improved-FDCM.git
 git push -u origin master
